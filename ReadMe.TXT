@@ -1,0 +1,1 @@
+This is just a simple Musical Webpage using html and css only.Just for practice.
